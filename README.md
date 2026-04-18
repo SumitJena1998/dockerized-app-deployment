@@ -1,10 +1,3 @@
-# dockerized-app-deployment
-Perfect 👍
-Below is your **production-grade, trendy DevOps README.md** for **`dockerized-app-deployment`**, matching the same professional style as your Terraform project.
-You can **copy-paste directly into GitHub README**.
-
----
-
 # **🚀 Dockerized Application Deployment (Production-Ready DevOps Containerization Setup)**
 
 This project demonstrates a **containerized, scalable, and production-grade application deployment** using Docker and Nginx. It follows **modern DevOps best practices** such as containerization, service isolation, reverse proxy configuration, and automated deployment workflows.
